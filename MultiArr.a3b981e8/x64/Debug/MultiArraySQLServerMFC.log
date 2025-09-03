@@ -1,0 +1,11 @@
+﻿  MultiArraySQLServerMFC.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+C:\Users\redju\source\repos\MultiArraySQLServerMFC\MultiArraySQLServerMFC.cpp(193,9): warning C4101: 'nbalance': unreferenced local variable
+C:\Users\redju\source\repos\MultiArraySQLServerMFC\MultiArraySQLServerMFC.cpp(193,19): warning C4101: 'financecharge': unreferenced local variable
+C:\Users\redju\source\repos\MultiArraySQLServerMFC\MultiArraySQLServerMFC.cpp(185,6): warning C4101: 'num': unreferenced local variable
+  Net.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+C:\Users\redju\source\repos\MultiArraySQLServerMFC\Net.cpp(69,12): warning C4244: 'initializing': conversion from 'INT_PTR' to 'int', possible loss of data
+C:\Users\redju\source\repos\MultiArraySQLServerMFC\Net.cpp(194,12): warning C4244: 'initializing': conversion from 'INT_PTR' to 'int', possible loss of data
+  Generating Code...
+  MultiArraySQLServerMFC.vcxproj -> C:\Users\redju\source\repos\MultiArraySQLServerMFC\x64\Debug\MultiArraySQLServerMFC.exe
